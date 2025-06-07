@@ -30,7 +30,7 @@ Each snippet is reviewed and presented in the following format:
 4. **Misspelled `return` Keyword (SyntaxError)**
 5. **Incorrect Indentation (IndentationError)**
 
-You can find all corrected snippets and explanations in the `task1_code_review.md` file.
+You can find all corrected snippets and explanations in the [Assignment_1_task_1_](Assignment_1_task_1_VaultOfCodes.ipynb) file.
 
 ---
 
@@ -44,7 +44,7 @@ Create a short educational presentation in PDF format covering:
 - Python modules and how to use them
 
 ### 📄 File:
-- `python_presentation.pdf` – Contains 12 slides with clear content explaining the concepts with code examples.
+- **Assignment_1 task_2 VaultofCodes.pptx** – Contains 12 slides with clear content explaining the concepts with code examples.
 
 ### 💡 Topics Covered:
 - What is Python?
@@ -57,5 +57,13 @@ Create a short educational presentation in PDF format covering:
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Tools Used
+- Python 3.x
+- Markdown (`.md`)
+- Presentation created using Canva
+- Exported to PDF and PowerPoint
+
+---
+
+
 
